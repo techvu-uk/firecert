@@ -1,0 +1,22 @@
+# Local/self-hosted setup: app + PostgreSQL. `docker compose up -d`, then seed an admin (see README).
+services:
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_PASSWORD: change-me
+      POSTGRES_DB: firecert
+    volumes: [dbdata:/var/lib/postgresql/data]
+    restart: unless-stopped
+  app:
+    build: .
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql://postgres:change-me@db:5432/firecert
+      STORAGE_DIR: /app/storage
+    volumes: [files:/app/storage]
+    ports: ["3000:3000"]
+    depends_on: [db]
+    restart: unless-stopped
+volumes:
+  dbdata:
+  files:

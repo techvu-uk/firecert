@@ -1,0 +1,209 @@
+{
+ "jobReference": "",
+ "clientReference": "00078",
+ "occupier": "Interlet International Lettings & Management Company Ltd",
+ "visitDate": "2026-10-27",
+ "visitKind": "ROUTINE",
+ "extent": "HMO property – fire alarm test",
+ "agreedLimitations": "N/A",
+ "systemCategory": "L2",
+ "systemType": "Conventional",
+ "zoneCount": 4,
+ "panelMake": "C-TEC",
+ "panelModel": "CFP704",
+ "panelLocation": "Ground floor entrance hall",
+ "arcConnected": "NO",
+ "scopeBatteries": "NA",
+ "scopePeriodic": "YES",
+ "scopeAnnual": "YES",
+ "scopeSpecial": "YES",
+ "variations": "N/A",
+ "overallCondition": "SATISFACTORY",
+ "engineerName": "MOHAMAD KOBAISI",
+ "engineerPosition": "Technical Eng.",
+ "engineerSignature": {
+  "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==",
+  "signedAt": "2026-10-27T10:00:00.000Z"
+ },
+ "engineerSignedDate": "2026-10-27",
+ "customerUnavailable": true,
+ "remedialWork": "NONE",
+ "photos": [],
+ "generalCondition": "Satisfactory, OK for continued use",
+ "defectsReported": "NA",
+ "logbookUpdated": "NA",
+ "falseAlarms12m": 0,
+ "automaticDetectors": 18,
+ "nextInspectionMonths": 6,
+ "refDesignSpec": "N/A",
+ "refPreviousInspection": "N/A",
+ "i02": {
+  "result": "PASS"
+ },
+ "i03": {
+  "result": "PASS"
+ },
+ "i04": {
+  "result": "PASS"
+ },
+ "i05": {
+  "result": "PASS"
+ },
+ "i06": {
+  "result": "PASS"
+ },
+ "i07": {
+  "result": "PASS"
+ },
+ "i08": {
+  "result": "PASS"
+ },
+ "i09": {
+  "result": "PASS"
+ },
+ "i10": {
+  "result": "PASS"
+ },
+ "i11": {
+  "result": "NA"
+ },
+ "i12": {
+  "result": "PASS"
+ },
+ "i13": {
+  "result": "PASS"
+ },
+ "i14": {
+  "result": "PASS"
+ },
+ "i15": {
+  "result": "PASS"
+ },
+ "i16": {
+  "result": "PASS"
+ },
+ "i17": {
+  "result": "PASS"
+ },
+ "i18": {
+  "result": "NA"
+ },
+ "i19": {
+  "result": "PASS"
+ },
+ "i20": {
+  "result": "PASS"
+ },
+ "i21": {
+  "result": "NA"
+ },
+ "i22": {
+  "result": "NA"
+ },
+ "i23": {
+  "result": "NA"
+ },
+ "i24": {
+  "result": "PASS"
+ },
+ "i25": {
+  "result": "NA"
+ },
+ "batteryChargeVoltage": 28.4,
+ "i26": {
+  "result": "PASS"
+ },
+ "i27": {
+  "result": "PASS"
+ },
+ "i28": {
+  "result": "PASS"
+ },
+ "i29": {
+  "result": "PASS"
+ },
+ "i30": {
+  "result": "PASS"
+ },
+ "i31": {
+  "result": "PASS"
+ },
+ "i32": {
+  "result": "PASS"
+ },
+ "i33": {
+  "result": "NA"
+ },
+ "i34": {
+  "result": "NA"
+ },
+ "i35": {
+  "result": "PASS"
+ },
+ "i36": {
+  "result": "PASS"
+ },
+ "i37": {
+  "result": "PASS"
+ },
+ "i38": {
+  "result": "PASS"
+ },
+ "i39": {
+  "result": "PASS"
+ },
+ "i40": {
+  "result": "PASS"
+ },
+ "i41": {
+  "result": "NA"
+ },
+ "i42": {
+  "result": "PASS"
+ },
+ "i43": {
+  "result": "PASS"
+ },
+ "i44": {
+  "result": "PASS"
+ },
+ "i45": {
+  "result": "NA"
+ },
+ "i46": {
+  "result": "PASS"
+ },
+ "i47": {
+  "result": "PASS"
+ },
+ "i48": {
+  "result": "PASS"
+ },
+ "i49": {
+  "result": "PASS"
+ },
+ "i50": {
+  "result": "PASS"
+ },
+ "i51": {
+  "result": "PASS"
+ },
+ "i52": {
+  "result": "PASS"
+ },
+ "i53": {
+  "result": "PASS"
+ },
+ "i54": {
+  "result": "PASS"
+ },
+ "i55": {
+  "result": "PASS"
+ },
+ "i56": {
+  "result": "NA"
+ },
+ "i57": {
+  "result": "PASS"
+ }
+}

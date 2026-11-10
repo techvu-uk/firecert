@@ -1,0 +1,69 @@
+{
+ "clientReference": "",
+ "occupier": "Interlet International Lettings & Management Company Ltd",
+ "visitDate": "2026-10-27",
+ "extent": "HMO – common parts",
+ "engineerName": "MOHAMAD KOBAISI",
+ "engineerPosition": "Technical ENG.",
+ "engineerSignature": {
+  "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==",
+  "signedAt": "2026-10-27T10:00:00.000Z"
+ },
+ "engineerSignedDate": "2026-10-27",
+ "hasSecondSignatory": false,
+ "hasVariations": "NO",
+ "overallResult": "SATISFACTORY",
+ "photos": [],
+ "eicrReportNo": "N/A",
+ "otherDocuments": "N/A",
+ "nextInspectionMonths": 12,
+ "purpose": [
+  "ESCAPE",
+  "HIGH_RISK"
+ ],
+ "arrangement": [
+  "SELF_CONTAINED"
+ ],
+ "arrangementOther": "N/A",
+ "autoTestSystem": "NO",
+ "classification": [
+  {
+   "type": "Self-contained",
+   "mode": "Maintained",
+   "facilities": "Manual test",
+   "duration": "3 hours"
+  }
+ ],
+ "modifications": "N/A",
+ "inspDaily": "NO",
+ "inspMonthly": "NO",
+ "inspAnnual": "YES",
+ "inspFiveYear": "NO",
+ "e10": {
+  "result": "PASS"
+ },
+ "e11": {
+  "result": "PASS"
+ },
+ "e12": {
+  "result": "PASS"
+ },
+ "e13": {
+  "result": "NA"
+ },
+ "e14": {
+  "result": "PASS"
+ },
+ "e15": {
+  "result": "NA"
+ },
+ "e16": {
+  "result": "PASS"
+ },
+ "e17": {
+  "result": "NA"
+ },
+ "lightMeterModel": "N/A",
+ "lightMeterSerial": "N/A",
+ "alternativeMethod": "N/A"
+}
