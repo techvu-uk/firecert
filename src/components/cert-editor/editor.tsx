@@ -310,7 +310,7 @@ export function CertificateEditor({
                     type="button"
                     onClick={() => jumpTo(s.id)}
                     className={cn(
-                      "flex w-full items-center gap-2 whitespace-nowrap rounded-full px-3 py-1.5 text-left text-sm font-medium lg:rounded-lg lg:py-2",
+                      "flex w-full items-center gap-2 whitespace-nowrap rounded-full px-3 py-1.5 text-left text-sm font-medium lg:items-start lg:whitespace-normal lg:rounded-lg lg:py-2",
                       activeSection === s.id ? "bg-ink-800 text-white lg:bg-white lg:text-ink-900 lg:shadow-sm" : "text-ink-600 hover:bg-white",
                     )}
                   >
